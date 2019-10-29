@@ -1,0 +1,15 @@
+local.properties
+gradle/
+.idea/
+.gradle/
+*.iml
+Pods
+Podfile.lock
+*.xcworkspace
+xcuserdata
+build/
+.externalNativeBuild/
+node_modules
+package-lock.json
+.temp/
+dist/
