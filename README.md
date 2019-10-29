@@ -1,5 +1,6 @@
 # 介绍
 > 本工程使用`weex-toolkit`创建   
+
 weex-toolkit版本信息如下：
 2.0.0-beta.31 (Core 2.0.0-beta.31)
 - @weex-cli/generator : v2.0.0-beta.16
