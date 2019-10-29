@@ -32,3 +32,5 @@ npm run serve
 # 问题现象
 最初为折线图偶现，后来发现线条设置为`smooth`的时候异常现象特别明显且更容易复现   
 具体现象见 `screenshots` 目录
+
+![三星](https://github.com/iquejay/weex-gcanvas-f2/blob/master/screenshots/%E4%B8%89%E6%98%9F_SM-G9200_android6.0.1.png)
